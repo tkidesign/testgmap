@@ -5652,22 +5652,9 @@ http://www.inao.gouv.fr/public/home.php</description>
 							<heading>-0.250789701158686</heading>
 						</LookAt>
 						<styleUrl>#khStyle560</styleUrl>
-						<Polygon>
-					      <extrude>1</extrude>
-					      <altitudeMode>relativeToGround</altitudeMode>
-					      <outerBoundaryIs>
-					        <LinearRing>
-					          <coordinates>
-					            -77.05788457660967,38.87253259892824,100 
-					            -77.05465973756702,38.87291016281703,100 
-					            -77.05315536854791,38.87053267794386,100 
-					            -77.05552622493516,38.868757801256,100 
-					            -77.05844056290393,38.86996206506943,100 
-					            -77.05788457660967,38.87253259892824,100
-					          </coordinates>
-					        </LinearRing>
-					      </outerBoundaryIs>
-					    </Polygon>
+						<Point>
+							<coordinates>2.147690709050451,47.14765849046427,0</coordinates>
+						</Point>
 					</Placemark>
 					<Placemark>
 						<name>AOC Reuilly</name>
@@ -6421,9 +6408,7 @@ http://www.inao.gouv.fr/public/home.php</description>
 							<heading>0.03514875113283886</heading>
 						</LookAt>
 						<styleUrl>#khStyle560</styleUrl>
-						<Point>
-							<coordinates>-0.1539473902334976,44.87766445752612,0</coordinates>
-						</Point>
+						<Polygon> <outerBoundaryIs> <LinearRing> <coordinates>-0.14715351797495,44.857888509151707 -0.159257451605261,44.859788174280908 -0.163761539522888,44.861029456013831 -0.163748948099014,44.87788869729853 -0.184431967628694,44.886830619643426 -0.208163846284622,44.889778713632701 -0.211084254387716,44.892965241754929 -0.208809511093021,44.90971022971744 -0.202620619473596,44.915025101876516 -0.195212696032923,44.923672672710801 -0.174250621827678,44.93135615329696 -0.131569985467932,44.912816058964701 -0.141387893125018,44.898608374996137 -0.139759508157711,44.892392070932026 -0.146505873807329,44.880235011370353 -0.144045211281786,44.870699484068489 -0.14715351797495,44.857888509151707</coordinates> </LinearRing> </outerBoundaryIs> </Polygon>
 					</Placemark>
 					<Placemark>
 						<name>AOC St. Estèphe</name>
