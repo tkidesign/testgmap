@@ -38,7 +38,7 @@
     <Folder>
 	    <Placemark>
 			<name>AOC St. Emilion</name>
-			<infoWindowHtml>http://www.altima.fr</infoWindowHtml>
+			<description>http://www.altima.fr</description>
 			<styleUrl>#transRedPoly</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
@@ -68,7 +68,7 @@
 		</Placemark>
 		<Placemark>
 			<name>AOC St. Emilion</name>
-			<infoWindowHtml>http://www.altima.fr</infoWindowHtml>
+			<description>http://www.altima.fr</description>
 			<styleUrl>#transBluePoly</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
@@ -98,7 +98,7 @@
 		</Placemark>
 		<Placemark>
 			<name>AOC St. Emilion</name>
-			<infoWindowHtml>http://www.altima.fr</infoWindowHtml>
+			<description>http://www.altima.fr</description>
 			<styleUrl>#transGreenPoly</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
@@ -128,7 +128,7 @@
 		</Placemark>
 		<Placemark>
 			<name>AOC St. Emilion</name>
-			<infoWindowHtml>http://www.altima.fr</infoWindowHtml>
+			<description>http://www.altima.fr</description>
 			<styleUrl>#transYellowPoly</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
