@@ -38,6 +38,7 @@
     <Folder>
 	    <Placemark>
 			<name>AOC St. Emilion</name>
+			<customLink>http://www.altima.fr</customLink>
 			<styleUrl>#transRedPoly</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
@@ -63,11 +64,11 @@
 						</coordinates>
 					</LinearRing>
 				</outerBoundaryIs>
-				<customLink>http://www.altima.fr</customLink>
 			</Polygon>
 		</Placemark>
 		<Placemark>
 			<name>AOC St. Emilion</name>
+			<customLink>http://www.altima.fr</customLink>
 			<styleUrl>#transBluePoly</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
@@ -93,11 +94,11 @@
 						</coordinates>
 					</LinearRing>
 				</outerBoundaryIs>
-				<customLink>http://www.altima.fr</customLink>
 			</Polygon>
 		</Placemark>
 		<Placemark>
 			<name>AOC St. Emilion</name>
+			<customLink>http://www.altima.fr</customLink>
 			<styleUrl>#transGreenPoly</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
@@ -123,11 +124,11 @@
 						</coordinates>
 					</LinearRing>
 				</outerBoundaryIs>
-				<customLink>http://www.altima.fr</customLink>
 			</Polygon>
 		</Placemark>
 		<Placemark>
 			<name>AOC St. Emilion</name>
+			<customLink>http://www.altima.fr</customLink>
 			<styleUrl>#transYellowPoly</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
@@ -153,7 +154,6 @@
 						</coordinates>
 					</LinearRing>
 				</outerBoundaryIs>
-				<customLink>http://www.altima.fr</customLink>
 			</Polygon>
 		</Placemark>
 	</Folder>
