@@ -50,6 +50,7 @@
 		      </Data>
 		    </ExtendedData>
 			<styleUrl>#transRedPoly</styleUrl>
+			<description>http://www.altima.fr</description>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
