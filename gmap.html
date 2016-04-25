@@ -28,44 +28,51 @@ max-width: none;
     }
     var map = new google.maps.Map(document.getElementById("map_canvas"), myOptions);
     map.setOptions({styles: [
-      {
-        "featureType": "administrative.country",
-        "elementType": "geometry.stroke",
-        "stylers": [
-          { "visibility": "on" },
-          { "color": "#FFFFFF" },
-          { "weight": 2 },
-          { "hue": "#ff0000" },
-          { "saturation": -1 }
-        ]
-      },{
-        "featureType": "landscape.natural.terrain",
-        "stylers": [
-          { "visibility": "off" }
-        ]
-      },{
-        "featureType": "road",
-        "stylers": [
-          { "visibility": "off" }
-        ]
-      },{
-        "featureType": "landscape",
-        "stylers": [
-          { "color": "#96d2d3" }
-        ]
-      },{
-        "featureType": "water",
-        "stylers": [
-          { "visibility": "on" },
-          { "color": "#ffffff" }
-        ]
-      },{
-        "featureType": "administrative.locality",
-        "stylers": [
-          { "visibility": "simplified" }
-        ]
-      }
-    ]});
+  {
+    "elementType": "geometry.fill",
+    "stylers": [
+      { "visibility": "on" },
+      { "gamma": 3.47 }
+    ]
+  },{
+    "featureType": "road.highway",
+    "stylers": [
+      { "saturation": -100 },
+      { "gamma": 2.86 },
+      { "visibility": "on" }
+    ]
+  },{
+    "featureType": "road.arterial",
+    "stylers": [
+      { "weight": 1 },
+      { "saturation": -100 },
+      { "gamma": 3.47 },
+      { "visibility": "simplified" },
+      { "color": "#eeeeee" }
+    ]
+  },{
+    "featureType": "road.highway",
+    "elementType": "labels",
+    "stylers": [
+      { "visibility": "off" }
+    ]
+  },{
+    "featureType": "administrative",
+    "stylers": [
+      { "visibility": "off" }
+    ]
+  },{
+    "featureType": "administrative.locality",
+    "stylers": [
+      { "visibility": "on" }
+    ]
+  },{
+    "featureType": "administrative.country",
+    "stylers": [
+      { "visibility": "on" }
+    ]
+  }
+]});
     kmlLayer = new google.maps.KmlLayer({
       url: 'https://raw.githubusercontent.com/Substitute59/testgmap/master/bordeaux.kml',
       suppressInfoWindows: true,
