@@ -3461,7 +3461,7 @@
 		</Placemark>
 		<Placemark>
 			<name>Entre-Deux-Mers</name>
-			<description></description>
+			<description><a href="#">ici un lien</a></description>
 			<styleUrl>#poly-DDA0DD-4-166</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
