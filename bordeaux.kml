@@ -19,7 +19,7 @@
 	<Style id='poly-000000-1-77-nodesc-highlight'>
 		<LineStyle>
 			<color>ff000000</color>
-			<width>2.0</width>
+			<width>1.0</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>4D000000</color>
@@ -662,7 +662,7 @@
 	<Style id='poly-48885C-1-128-highlight'>
 		<LineStyle>
 			<color>ff5C8848</color>
-			<width>2.0</width>
+			<width>1.0</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>805C8848</color>
@@ -694,7 +694,7 @@
 	<Style id='poly-48D1CC-1-128-highlight'>
 		<LineStyle>
 			<color>ffCCD148</color>
-			<width>2.0</width>
+			<width>1.0</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>80CCD148</color>
@@ -790,7 +790,7 @@
 	<Style id='poly-4C81CD-1-128-highlight'>
 		<LineStyle>
 			<color>ffCD814C</color>
-			<width>2.0</width>
+			<width>1.0</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>80CD814C</color>
@@ -982,7 +982,7 @@
 	<Style id='poly-6ECFFC-1-128-highlight'>
 		<LineStyle>
 			<color>ffFCCF6E</color>
-			<width>2.0</width>
+			<width>1.0</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>80FCCF6E</color>
@@ -1590,7 +1590,7 @@
 	<Style id='poly-A553B7-1-128-highlight'>
 		<LineStyle>
 			<color>ffB753A5</color>
-			<width>2.0</width>
+			<width>1.0</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>80B753A5</color>
@@ -1686,7 +1686,7 @@
 	<Style id='poly-B1A9D0-1-128-highlight'>
 		<LineStyle>
 			<color>ffD0A9B1</color>
-			<width>2.0</width>
+			<width>1.0</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>80D0A9B1</color>
@@ -1814,7 +1814,7 @@
 	<Style id='poly-C0C0C0-1-128-highlight'>
 		<LineStyle>
 			<color>ffC0C0C0</color>
-			<width>2.0</width>
+			<width>1.0</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>80C0C0C0</color>
@@ -2166,7 +2166,7 @@
 	<Style id='poly-DDA0DD-1-128-highlight'>
 		<LineStyle>
 			<color>ffDDA0DD</color>
-			<width>2.0</width>
+			<width>1.0</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>80DDA0DD</color>
@@ -2294,7 +2294,7 @@
 	<Style id='poly-F08080-1-128-highlight'>
 		<LineStyle>
 			<color>ff8080F0</color>
-			<width>2.0</width>
+			<width>1.0</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>808080F0</color>
@@ -2390,7 +2390,7 @@
 	<Style id='poly-F1983C-1-128-highlight'>
 		<LineStyle>
 			<color>ff3C98F1</color>
-			<width>2.0</width>
+			<width>1.0</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>803C98F1</color>
@@ -2614,7 +2614,7 @@
 	<Style id='poly-FCD27E-1-128-highlight'>
 		<LineStyle>
 			<color>ff7ED2FC</color>
-			<width>2.0</width>
+			<width>1.0</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>807ED2FC</color>
@@ -2678,7 +2678,7 @@
 	<Style id='poly-FCE138-1-128-highlight'>
 		<LineStyle>
 			<color>ff38E1FC</color>
-			<width>2.0</width>
+			<width>1.0</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>8038E1FC</color>
@@ -2806,7 +2806,7 @@
 	<Style id='poly-FFA500-1-128-highlight'>
 		<LineStyle>
 			<color>ff00A5FF</color>
-			<width>2.0</width>
+			<width>1.0</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>8000A5FF</color>
@@ -2934,7 +2934,7 @@
 	<Style id='poly-FFD700-1-128-highlight'>
 		<LineStyle>
 			<color>ff00D7FF</color>
-			<width>2.0</width>
+			<width>1.0</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>8000D7FF</color>
@@ -3030,7 +3030,7 @@
 	<Style id='poly-FFF799-1-128-highlight'>
 		<LineStyle>
 			<color>ff99F7FF</color>
-			<width>2.0</width>
+			<width>1.0</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>8099F7FF</color>
