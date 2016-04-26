@@ -43,7 +43,7 @@
 	<Style id='poly-0000CD-4-166-normal'>
 		<LineStyle>
 			<color>ffCD0000</color>
-			<width>2</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>A6CD0000</color>
@@ -54,7 +54,7 @@
 	<Style id='poly-0000CD-4-166-highlight'>
 		<LineStyle>
 			<color>ffCD0000</color>
-			<width>3.0</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>A6CD0000</color>
@@ -75,7 +75,7 @@
 	<Style id='poly-00734C-4-166-normal'>
 		<LineStyle>
 			<color>ff4C7300</color>
-			<width>2</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>A64C7300</color>
@@ -86,7 +86,7 @@
 	<Style id='poly-00734C-4-166-highlight'>
 		<LineStyle>
 			<color>ff4C7300</color>
-			<width>3.0</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>A64C7300</color>
@@ -107,7 +107,7 @@
 	<Style id='poly-01ACCA-4-166-normal'>
 		<LineStyle>
 			<color>ffCAAC01</color>
-			<width>2</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>A6CAAC01</color>
@@ -118,7 +118,7 @@
 	<Style id='poly-01ACCA-4-166-highlight'>
 		<LineStyle>
 			<color>ffCAAC01</color>
-			<width>3.0</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>A6CAAC01</color>
@@ -139,7 +139,7 @@
 	<Style id='poly-024E76-4-166-normal'>
 		<LineStyle>
 			<color>ff764E02</color>
-			<width>2</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>A6764E02</color>
@@ -150,7 +150,7 @@
 	<Style id='poly-024E76-4-166-highlight'>
 		<LineStyle>
 			<color>ff764E02</color>
-			<width>3.0</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>A6764E02</color>
@@ -171,7 +171,7 @@
 	<Style id='poly-102432-4-128-normal'>
 		<LineStyle>
 			<color>ff322410</color>
-			<width>2</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>80322410</color>
@@ -182,7 +182,7 @@
 	<Style id='poly-102432-4-128-highlight'>
 		<LineStyle>
 			<color>ff322410</color>
-			<width>3.0</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>80322410</color>
@@ -203,7 +203,7 @@
 	<Style id='poly-11495C-4-128-normal'>
 		<LineStyle>
 			<color>ff5C4911</color>
-			<width>2</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>805C4911</color>
@@ -214,7 +214,7 @@
 	<Style id='poly-11495C-4-128-highlight'>
 		<LineStyle>
 			<color>ff5C4911</color>
-			<width>3.0</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>805C4911</color>
@@ -235,7 +235,7 @@
 	<Style id='poly-144D59-4-128-normal'>
 		<LineStyle>
 			<color>ff594D14</color>
-			<width>2</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>80594D14</color>
@@ -246,7 +246,7 @@
 	<Style id='poly-144D59-4-128-highlight'>
 		<LineStyle>
 			<color>ff594D14</color>
-			<width>3.0</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>80594D14</color>
@@ -267,7 +267,7 @@
 	<Style id='poly-18382E-4-128-normal'>
 		<LineStyle>
 			<color>ff2E3818</color>
-			<width>2</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>802E3818</color>
@@ -278,7 +278,7 @@
 	<Style id='poly-18382E-4-128-highlight'>
 		<LineStyle>
 			<color>ff2E3818</color>
-			<width>3.0</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>802E3818</color>
@@ -299,7 +299,7 @@
 	<Style id='poly-1919FF-4-128-normal'>
 		<LineStyle>
 			<color>ffFF1919</color>
-			<width>2</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>80FF1919</color>
@@ -310,7 +310,7 @@
 	<Style id='poly-1919FF-4-128-highlight'>
 		<LineStyle>
 			<color>ffFF1919</color>
-			<width>3.0</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>80FF1919</color>
@@ -331,7 +331,7 @@
 	<Style id='poly-1FC235-4-128-normal'>
 		<LineStyle>
 			<color>ff35C21F</color>
-			<width>2</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>8035C21F</color>
@@ -342,7 +342,7 @@
 	<Style id='poly-1FC235-4-128-highlight'>
 		<LineStyle>
 			<color>ff35C21F</color>
-			<width>3.0</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>8035C21F</color>
@@ -363,7 +363,7 @@
 	<Style id='poly-20B2AA-4-166-normal'>
 		<LineStyle>
 			<color>ffAAB220</color>
-			<width>2</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>A6AAB220</color>
@@ -374,7 +374,7 @@
 	<Style id='poly-20B2AA-4-166-highlight'>
 		<LineStyle>
 			<color>ffAAB220</color>
-			<width>3.0</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>A6AAB220</color>
@@ -395,7 +395,7 @@
 	<Style id='poly-211173-4-128-normal'>
 		<LineStyle>
 			<color>ff731121</color>
-			<width>2</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>80731121</color>
@@ -406,7 +406,7 @@
 	<Style id='poly-211173-4-128-highlight'>
 		<LineStyle>
 			<color>ff731121</color>
-			<width>3.0</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>80731121</color>
@@ -427,7 +427,7 @@
 	<Style id='poly-2C6954-4-128-normal'>
 		<LineStyle>
 			<color>ff54692C</color>
-			<width>2</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>8054692C</color>
@@ -438,7 +438,7 @@
 	<Style id='poly-2C6954-4-128-highlight'>
 		<LineStyle>
 			<color>ff54692C</color>
-			<width>3.0</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>8054692C</color>
@@ -459,7 +459,7 @@
 	<Style id='poly-32B8A6-4-179-normal'>
 		<LineStyle>
 			<color>ffA6B832</color>
-			<width>2</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>B3A6B832</color>
@@ -470,7 +470,7 @@
 	<Style id='poly-32B8A6-4-179-highlight'>
 		<LineStyle>
 			<color>ffA6B832</color>
-			<width>3.0</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>B3A6B832</color>
@@ -491,7 +491,7 @@
 	<Style id='poly-32CD32-4-166-normal'>
 		<LineStyle>
 			<color>ff32CD32</color>
-			<width>2</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>A632CD32</color>
@@ -502,7 +502,7 @@
 	<Style id='poly-32CD32-4-166-highlight'>
 		<LineStyle>
 			<color>ff32CD32</color>
-			<width>3.0</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>A632CD32</color>
@@ -523,7 +523,7 @@
 	<Style id='poly-332424-4-128-normal'>
 		<LineStyle>
 			<color>ff242433</color>
-			<width>2</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>80242433</color>
@@ -534,7 +534,7 @@
 	<Style id='poly-332424-4-128-highlight'>
 		<LineStyle>
 			<color>ff242433</color>
-			<width>3.0</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>80242433</color>
@@ -555,7 +555,7 @@
 	<Style id='poly-333333-4-166-normal'>
 		<LineStyle>
 			<color>ff333333</color>
-			<width>2</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>A6333333</color>
@@ -566,7 +566,7 @@
 	<Style id='poly-333333-4-166-highlight'>
 		<LineStyle>
 			<color>ff333333</color>
-			<width>3.0</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>A6333333</color>
@@ -587,7 +587,7 @@
 	<Style id='poly-454F4B-4-128-normal'>
 		<LineStyle>
 			<color>ff4B4F45</color>
-			<width>2</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>804B4F45</color>
@@ -598,7 +598,7 @@
 	<Style id='poly-454F4B-4-128-highlight'>
 		<LineStyle>
 			<color>ff4B4F45</color>
-			<width>3.0</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>804B4F45</color>
@@ -619,7 +619,7 @@
 	<Style id='poly-46E39C-4-179-normal'>
 		<LineStyle>
 			<color>ff9CE346</color>
-			<width>2</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>B39CE346</color>
@@ -630,7 +630,7 @@
 	<Style id='poly-46E39C-4-179-highlight'>
 		<LineStyle>
 			<color>ff9CE346</color>
-			<width>3.0</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>B39CE346</color>
@@ -715,7 +715,7 @@
 	<Style id='poly-4A0932-4-128-normal'>
 		<LineStyle>
 			<color>ff32094A</color>
-			<width>2</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>8032094A</color>
@@ -726,7 +726,7 @@
 	<Style id='poly-4A0932-4-128-highlight'>
 		<LineStyle>
 			<color>ff32094A</color>
-			<width>3.0</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>8032094A</color>
@@ -747,7 +747,7 @@
 	<Style id='poly-4B0082-4-166-normal'>
 		<LineStyle>
 			<color>ff82004B</color>
-			<width>2</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>A682004B</color>
@@ -758,7 +758,7 @@
 	<Style id='poly-4B0082-4-166-highlight'>
 		<LineStyle>
 			<color>ff82004B</color>
-			<width>3.0</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>A682004B</color>
@@ -811,7 +811,7 @@
 	<Style id='poly-607100-4-166-normal'>
 		<LineStyle>
 			<color>ff007160</color>
-			<width>2</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>A6007160</color>
@@ -822,7 +822,7 @@
 	<Style id='poly-607100-4-166-highlight'>
 		<LineStyle>
 			<color>ff007160</color>
-			<width>3.0</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>A6007160</color>
@@ -843,7 +843,7 @@
 	<Style id='poly-661510-4-128-normal'>
 		<LineStyle>
 			<color>ff101566</color>
-			<width>2</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>80101566</color>
@@ -854,7 +854,7 @@
 	<Style id='poly-661510-4-128-highlight'>
 		<LineStyle>
 			<color>ff101566</color>
-			<width>3.0</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>80101566</color>
@@ -875,7 +875,7 @@
 	<Style id='poly-6A5ACD-4-166-normal'>
 		<LineStyle>
 			<color>ffCD5A6A</color>
-			<width>2</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>A6CD5A6A</color>
@@ -886,7 +886,7 @@
 	<Style id='poly-6A5ACD-4-166-highlight'>
 		<LineStyle>
 			<color>ffCD5A6A</color>
-			<width>3.0</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>A6CD5A6A</color>
@@ -907,7 +907,7 @@
 	<Style id='poly-6B6408-4-128-normal'>
 		<LineStyle>
 			<color>ff08646B</color>
-			<width>2</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>8008646B</color>
@@ -918,7 +918,7 @@
 	<Style id='poly-6B6408-4-128-highlight'>
 		<LineStyle>
 			<color>ff08646B</color>
-			<width>3.0</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>8008646B</color>
@@ -939,7 +939,7 @@
 	<Style id='poly-6EC9A8-4-128-normal'>
 		<LineStyle>
 			<color>ffA8C96E</color>
-			<width>2</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>80A8C96E</color>
@@ -950,7 +950,7 @@
 	<Style id='poly-6EC9A8-4-128-highlight'>
 		<LineStyle>
 			<color>ffA8C96E</color>
-			<width>3.0</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>80A8C96E</color>
@@ -1003,7 +1003,7 @@
 	<Style id='poly-6ECFFC-4-166-normal'>
 		<LineStyle>
 			<color>ffFCCF6E</color>
-			<width>2</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>A6FCCF6E</color>
@@ -1014,7 +1014,7 @@
 	<Style id='poly-6ECFFC-4-166-highlight'>
 		<LineStyle>
 			<color>ffFCCF6E</color>
-			<width>3.0</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>A6FCCF6E</color>
@@ -1035,7 +1035,7 @@
 	<Style id='poly-704489-4-166-normal'>
 		<LineStyle>
 			<color>ff894470</color>
-			<width>2</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>A6894470</color>
@@ -1046,7 +1046,7 @@
 	<Style id='poly-704489-4-166-highlight'>
 		<LineStyle>
 			<color>ff894470</color>
-			<width>3.0</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>A6894470</color>
@@ -1067,7 +1067,7 @@
 	<Style id='poly-751555-4-128-normal'>
 		<LineStyle>
 			<color>ff551575</color>
-			<width>2</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>80551575</color>
@@ -1078,7 +1078,7 @@
 	<Style id='poly-751555-4-128-highlight'>
 		<LineStyle>
 			<color>ff551575</color>
-			<width>3.0</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>80551575</color>
@@ -1099,7 +1099,7 @@
 	<Style id='poly-7570B3-4-166-normal'>
 		<LineStyle>
 			<color>ffB37075</color>
-			<width>2</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>A6B37075</color>
@@ -1110,7 +1110,7 @@
 	<Style id='poly-7570B3-4-166-highlight'>
 		<LineStyle>
 			<color>ffB37075</color>
-			<width>3.0</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>A6B37075</color>
@@ -1131,7 +1131,7 @@
 	<Style id='poly-78B1C2-4-128-normal'>
 		<LineStyle>
 			<color>ffC2B178</color>
-			<width>2</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>80C2B178</color>
@@ -1142,7 +1142,7 @@
 	<Style id='poly-78B1C2-4-128-highlight'>
 		<LineStyle>
 			<color>ffC2B178</color>
-			<width>3.0</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>80C2B178</color>
@@ -1163,7 +1163,7 @@
 	<Style id='poly-7B68EE-4-166-normal'>
 		<LineStyle>
 			<color>ffEE687B</color>
-			<width>2</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>A6EE687B</color>
@@ -1174,7 +1174,7 @@
 	<Style id='poly-7B68EE-4-166-highlight'>
 		<LineStyle>
 			<color>ffEE687B</color>
-			<width>3.0</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>A6EE687B</color>
@@ -1195,7 +1195,7 @@
 	<Style id='poly-7BFAEB-4-128-normal'>
 		<LineStyle>
 			<color>ffEBFA7B</color>
-			<width>2</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>80EBFA7B</color>
@@ -1206,7 +1206,7 @@
 	<Style id='poly-7BFAEB-4-128-highlight'>
 		<LineStyle>
 			<color>ffEBFA7B</color>
-			<width>3.0</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>80EBFA7B</color>
@@ -1227,7 +1227,7 @@
 	<Style id='poly-7FFF00-4-128-normal'>
 		<LineStyle>
 			<color>ff00FF7F</color>
-			<width>2</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>8000FF7F</color>
@@ -1238,7 +1238,7 @@
 	<Style id='poly-7FFF00-4-128-highlight'>
 		<LineStyle>
 			<color>ff00FF7F</color>
-			<width>3.0</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>8000FF7F</color>
@@ -1259,7 +1259,7 @@
 	<Style id='poly-800080-4-166-normal'>
 		<LineStyle>
 			<color>ff800080</color>
-			<width>2</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>A6800080</color>
@@ -1270,7 +1270,7 @@
 	<Style id='poly-800080-4-166-highlight'>
 		<LineStyle>
 			<color>ff800080</color>
-			<width>3.0</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>A6800080</color>
@@ -1291,7 +1291,7 @@
 	<Style id='poly-82AAD6-4-128-normal'>
 		<LineStyle>
 			<color>ffD6AA82</color>
-			<width>2</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>80D6AA82</color>
@@ -1302,7 +1302,7 @@
 	<Style id='poly-82AAD6-4-128-highlight'>
 		<LineStyle>
 			<color>ffD6AA82</color>
-			<width>3.0</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>80D6AA82</color>
@@ -1323,7 +1323,7 @@
 	<Style id='poly-87B051-4-128-normal'>
 		<LineStyle>
 			<color>ff51B087</color>
-			<width>2</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>8051B087</color>
@@ -1334,7 +1334,7 @@
 	<Style id='poly-87B051-4-128-highlight'>
 		<LineStyle>
 			<color>ff51B087</color>
-			<width>3.0</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>8051B087</color>
@@ -1355,7 +1355,7 @@
 	<Style id='poly-8C213F-4-128-normal'>
 		<LineStyle>
 			<color>ff3F218C</color>
-			<width>2</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>803F218C</color>
@@ -1366,7 +1366,7 @@
 	<Style id='poly-8C213F-4-128-highlight'>
 		<LineStyle>
 			<color>ff3F218C</color>
-			<width>3.0</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>803F218C</color>
@@ -1387,7 +1387,7 @@
 	<Style id='poly-8F8F82-4-128-normal'>
 		<LineStyle>
 			<color>ff828F8F</color>
-			<width>2</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>80828F8F</color>
@@ -1398,7 +1398,7 @@
 	<Style id='poly-8F8F82-4-128-highlight'>
 		<LineStyle>
 			<color>ff828F8F</color>
-			<width>3.0</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>80828F8F</color>
@@ -1419,7 +1419,7 @@
 	<Style id='poly-8FBC8F-4-166-normal'>
 		<LineStyle>
 			<color>ff8FBC8F</color>
-			<width>2</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>A68FBC8F</color>
@@ -1430,7 +1430,7 @@
 	<Style id='poly-8FBC8F-4-166-highlight'>
 		<LineStyle>
 			<color>ff8FBC8F</color>
-			<width>3.0</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>A68FBC8F</color>
@@ -1451,7 +1451,7 @@
 	<Style id='poly-98FB98-4-166-normal'>
 		<LineStyle>
 			<color>ff98FB98</color>
-			<width>2</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>A698FB98</color>
@@ -1462,7 +1462,7 @@
 	<Style id='poly-98FB98-4-166-highlight'>
 		<LineStyle>
 			<color>ff98FB98</color>
-			<width>3.0</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>A698FB98</color>
@@ -1483,7 +1483,7 @@
 	<Style id='poly-9BE0C0-4-128-normal'>
 		<LineStyle>
 			<color>ffC0E09B</color>
-			<width>2</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>80C0E09B</color>
@@ -1494,7 +1494,7 @@
 	<Style id='poly-9BE0C0-4-128-highlight'>
 		<LineStyle>
 			<color>ffC0E09B</color>
-			<width>3.0</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>80C0E09B</color>
@@ -1515,7 +1515,7 @@
 	<Style id='poly-9FD40C-4-179-normal'>
 		<LineStyle>
 			<color>ff0CD49F</color>
-			<width>2</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>B30CD49F</color>
@@ -1526,7 +1526,7 @@
 	<Style id='poly-9FD40C-4-179-highlight'>
 		<LineStyle>
 			<color>ff0CD49F</color>
-			<width>3.0</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>B30CD49F</color>
@@ -1547,7 +1547,7 @@
 	<Style id='poly-A0B8B5-4-128-normal'>
 		<LineStyle>
 			<color>ffB5B8A0</color>
-			<width>2</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>80B5B8A0</color>
@@ -1558,7 +1558,7 @@
 	<Style id='poly-A0B8B5-4-128-highlight'>
 		<LineStyle>
 			<color>ffB5B8A0</color>
-			<width>3.0</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>80B5B8A0</color>
@@ -1611,7 +1611,7 @@
 	<Style id='poly-A553B7-4-166-normal'>
 		<LineStyle>
 			<color>ffB753A5</color>
-			<width>2</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>A6B753A5</color>
@@ -1622,7 +1622,7 @@
 	<Style id='poly-A553B7-4-166-highlight'>
 		<LineStyle>
 			<color>ffB753A5</color>
-			<width>3.0</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>A6B753A5</color>
@@ -1643,7 +1643,7 @@
 	<Style id='poly-A64F1B-4-128-normal'>
 		<LineStyle>
 			<color>ff1B4FA6</color>
-			<width>2</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>801B4FA6</color>
@@ -1654,7 +1654,7 @@
 	<Style id='poly-A64F1B-4-128-highlight'>
 		<LineStyle>
 			<color>ff1B4FA6</color>
-			<width>3.0</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>801B4FA6</color>
@@ -1707,7 +1707,7 @@
 	<Style id='poly-B31515-4-128-normal'>
 		<LineStyle>
 			<color>ff1515B3</color>
-			<width>2</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>801515B3</color>
@@ -1718,7 +1718,7 @@
 	<Style id='poly-B31515-4-128-highlight'>
 		<LineStyle>
 			<color>ff1515B3</color>
-			<width>3.0</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>801515B3</color>
@@ -1739,7 +1739,7 @@
 	<Style id='poly-B8E3D0-4-128-normal'>
 		<LineStyle>
 			<color>ffD0E3B8</color>
-			<width>2</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>80D0E3B8</color>
@@ -1750,7 +1750,7 @@
 	<Style id='poly-B8E3D0-4-128-highlight'>
 		<LineStyle>
 			<color>ffD0E3B8</color>
-			<width>3.0</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>80D0E3B8</color>
@@ -1771,7 +1771,7 @@
 	<Style id='poly-BF9727-4-166-normal'>
 		<LineStyle>
 			<color>ff2797BF</color>
-			<width>2</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>A62797BF</color>
@@ -1782,7 +1782,7 @@
 	<Style id='poly-BF9727-4-166-highlight'>
 		<LineStyle>
 			<color>ff2797BF</color>
-			<width>3.0</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>A62797BF</color>
@@ -1835,7 +1835,7 @@
 	<Style id='poly-C1D48C-4-128-normal'>
 		<LineStyle>
 			<color>ff8CD4C1</color>
-			<width>2</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>808CD4C1</color>
@@ -1846,7 +1846,7 @@
 	<Style id='poly-C1D48C-4-128-highlight'>
 		<LineStyle>
 			<color>ff8CD4C1</color>
-			<width>3.0</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>808CD4C1</color>
@@ -1867,7 +1867,7 @@
 	<Style id='poly-C6004B-4-166-normal'>
 		<LineStyle>
 			<color>ff4B00C6</color>
-			<width>2</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>A64B00C6</color>
@@ -1878,7 +1878,7 @@
 	<Style id='poly-C6004B-4-166-highlight'>
 		<LineStyle>
 			<color>ff4B00C6</color>
-			<width>3.0</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>A64B00C6</color>
@@ -1899,7 +1899,7 @@
 	<Style id='poly-CBF7FA-4-128-normal'>
 		<LineStyle>
 			<color>ffFAF7CB</color>
-			<width>2</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>80FAF7CB</color>
@@ -1910,7 +1910,7 @@
 	<Style id='poly-CBF7FA-4-128-highlight'>
 		<LineStyle>
 			<color>ffFAF7CB</color>
-			<width>3.0</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>80FAF7CB</color>
@@ -1931,7 +1931,7 @@
 	<Style id='poly-CCC54A-4-128-normal'>
 		<LineStyle>
 			<color>ff4AC5CC</color>
-			<width>2</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>804AC5CC</color>
@@ -1942,7 +1942,7 @@
 	<Style id='poly-CCC54A-4-128-highlight'>
 		<LineStyle>
 			<color>ff4AC5CC</color>
-			<width>3.0</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>804AC5CC</color>
@@ -1963,7 +1963,7 @@
 	<Style id='poly-D2691E-4-166-normal'>
 		<LineStyle>
 			<color>ff1E69D2</color>
-			<width>2</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>A61E69D2</color>
@@ -1974,7 +1974,7 @@
 	<Style id='poly-D2691E-4-166-highlight'>
 		<LineStyle>
 			<color>ff1E69D2</color>
-			<width>3.0</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>A61E69D2</color>
@@ -1995,7 +1995,7 @@
 	<Style id='poly-D47013-4-128-normal'>
 		<LineStyle>
 			<color>ff1370D4</color>
-			<width>2</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>801370D4</color>
@@ -2006,7 +2006,7 @@
 	<Style id='poly-D47013-4-128-highlight'>
 		<LineStyle>
 			<color>ff1370D4</color>
-			<width>3.0</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>801370D4</color>
@@ -2027,7 +2027,7 @@
 	<Style id='poly-D68989-4-128-normal'>
 		<LineStyle>
 			<color>ff8989D6</color>
-			<width>2</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>808989D6</color>
@@ -2038,7 +2038,7 @@
 	<Style id='poly-D68989-4-128-highlight'>
 		<LineStyle>
 			<color>ff8989D6</color>
-			<width>3.0</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>808989D6</color>
@@ -2059,7 +2059,7 @@
 	<Style id='poly-D791F2-4-128-normal'>
 		<LineStyle>
 			<color>ffF291D7</color>
-			<width>2</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>80F291D7</color>
@@ -2070,7 +2070,7 @@
 	<Style id='poly-D791F2-4-128-highlight'>
 		<LineStyle>
 			<color>ffF291D7</color>
-			<width>3.0</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>80F291D7</color>
@@ -2091,7 +2091,7 @@
 	<Style id='poly-D9351A-4-128-normal'>
 		<LineStyle>
 			<color>ff1A35D9</color>
-			<width>2</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>801A35D9</color>
@@ -2102,7 +2102,7 @@
 	<Style id='poly-D9351A-4-128-highlight'>
 		<LineStyle>
 			<color>ff1A35D9</color>
-			<width>3.0</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>801A35D9</color>
@@ -2123,7 +2123,7 @@
 	<Style id='poly-DC143C-4-166-normal'>
 		<LineStyle>
 			<color>ff3C14DC</color>
-			<width>2</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>A63C14DC</color>
@@ -2134,7 +2134,7 @@
 	<Style id='poly-DC143C-4-166-highlight'>
 		<LineStyle>
 			<color>ff3C14DC</color>
-			<width>3.0</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>A63C14DC</color>
@@ -2187,7 +2187,7 @@
 	<Style id='poly-DDA0DD-4-166-normal'>
 		<LineStyle>
 			<color>ffDDA0DD</color>
-			<width>2</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>A6DDA0DD</color>
@@ -2198,7 +2198,7 @@
 	<Style id='poly-DDA0DD-4-166-highlight'>
 		<LineStyle>
 			<color>ffDDA0DD</color>
-			<width>3.0</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>A6DDA0DD</color>
@@ -2219,7 +2219,7 @@
 	<Style id='poly-EADA40-4-128-normal'>
 		<LineStyle>
 			<color>ff40DAEA</color>
-			<width>2</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>8040DAEA</color>
@@ -2230,7 +2230,7 @@
 	<Style id='poly-EADA40-4-128-highlight'>
 		<LineStyle>
 			<color>ff40DAEA</color>
-			<width>3.0</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>8040DAEA</color>
@@ -2251,7 +2251,7 @@
 	<Style id='poly-ED9310-4-128-normal'>
 		<LineStyle>
 			<color>ff1093ED</color>
-			<width>2</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>801093ED</color>
@@ -2262,7 +2262,7 @@
 	<Style id='poly-ED9310-4-128-highlight'>
 		<LineStyle>
 			<color>ff1093ED</color>
-			<width>3.0</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>801093ED</color>
@@ -2315,7 +2315,7 @@
 	<Style id='poly-F08080-4-166-normal'>
 		<LineStyle>
 			<color>ff8080F0</color>
-			<width>2</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>A68080F0</color>
@@ -2326,7 +2326,7 @@
 	<Style id='poly-F08080-4-166-highlight'>
 		<LineStyle>
 			<color>ff8080F0</color>
-			<width>3.0</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>A68080F0</color>
@@ -2347,7 +2347,7 @@
 	<Style id='poly-F09100-4-166-normal'>
 		<LineStyle>
 			<color>ff0091F0</color>
-			<width>2</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>A60091F0</color>
@@ -2358,7 +2358,7 @@
 	<Style id='poly-F09100-4-166-highlight'>
 		<LineStyle>
 			<color>ff0091F0</color>
-			<width>3.0</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>A60091F0</color>
@@ -2411,7 +2411,7 @@
 	<Style id='poly-F1983C-4-166-normal'>
 		<LineStyle>
 			<color>ff3C98F1</color>
-			<width>2</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>A63C98F1</color>
@@ -2422,7 +2422,7 @@
 	<Style id='poly-F1983C-4-166-highlight'>
 		<LineStyle>
 			<color>ff3C98F1</color>
-			<width>3.0</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>A63C98F1</color>
@@ -2443,7 +2443,7 @@
 	<Style id='poly-F4A460-4-166-normal'>
 		<LineStyle>
 			<color>ff60A4F4</color>
-			<width>2</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>A660A4F4</color>
@@ -2454,7 +2454,7 @@
 	<Style id='poly-F4A460-4-166-highlight'>
 		<LineStyle>
 			<color>ff60A4F4</color>
-			<width>3.0</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>A660A4F4</color>
@@ -2475,7 +2475,7 @@
 	<Style id='poly-F5CB11-4-179-normal'>
 		<LineStyle>
 			<color>ff11CBF5</color>
-			<width>2</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>B311CBF5</color>
@@ -2486,7 +2486,7 @@
 	<Style id='poly-F5CB11-4-179-highlight'>
 		<LineStyle>
 			<color>ff11CBF5</color>
-			<width>3.0</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>B311CBF5</color>
@@ -2507,7 +2507,7 @@
 	<Style id='poly-F5E6A4-4-128-normal'>
 		<LineStyle>
 			<color>ffA4E6F5</color>
-			<width>2</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>80A4E6F5</color>
@@ -2518,7 +2518,7 @@
 	<Style id='poly-F5E6A4-4-128-highlight'>
 		<LineStyle>
 			<color>ffA4E6F5</color>
-			<width>3.0</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>80A4E6F5</color>
@@ -2539,7 +2539,7 @@
 	<Style id='poly-F7EC88-4-128-normal'>
 		<LineStyle>
 			<color>ff88ECF7</color>
-			<width>2</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>8088ECF7</color>
@@ -2550,7 +2550,7 @@
 	<Style id='poly-F7EC88-4-128-highlight'>
 		<LineStyle>
 			<color>ff88ECF7</color>
-			<width>3.0</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>8088ECF7</color>
@@ -2571,7 +2571,7 @@
 	<Style id='poly-FC6F84-4-166-normal'>
 		<LineStyle>
 			<color>ff846FFC</color>
-			<width>2</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>A6846FFC</color>
@@ -2582,7 +2582,7 @@
 	<Style id='poly-FC6F84-4-166-highlight'>
 		<LineStyle>
 			<color>ff846FFC</color>
-			<width>3.0</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>A6846FFC</color>
@@ -2635,7 +2635,7 @@
 	<Style id='poly-FCD27E-4-166-normal'>
 		<LineStyle>
 			<color>ff7ED2FC</color>
-			<width>2</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>A67ED2FC</color>
@@ -2646,7 +2646,7 @@
 	<Style id='poly-FCD27E-4-166-highlight'>
 		<LineStyle>
 			<color>ff7ED2FC</color>
-			<width>3.0</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>A67ED2FC</color>
@@ -2699,7 +2699,7 @@
 	<Style id='poly-FCE138-4-166-normal'>
 		<LineStyle>
 			<color>ff38E1FC</color>
-			<width>2</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>A638E1FC</color>
@@ -2710,7 +2710,7 @@
 	<Style id='poly-FCE138-4-166-highlight'>
 		<LineStyle>
 			<color>ff38E1FC</color>
-			<width>3.0</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>A638E1FC</color>
@@ -2731,7 +2731,7 @@
 	<Style id='poly-FF4500-4-128-normal'>
 		<LineStyle>
 			<color>ff0045FF</color>
-			<width>2</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>800045FF</color>
@@ -2742,7 +2742,7 @@
 	<Style id='poly-FF4500-4-128-highlight'>
 		<LineStyle>
 			<color>ff0045FF</color>
-			<width>3.0</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>800045FF</color>
@@ -2763,7 +2763,7 @@
 	<Style id='poly-FF7F50-4-166-normal'>
 		<LineStyle>
 			<color>ff507FFF</color>
-			<width>2</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>A6507FFF</color>
@@ -2774,7 +2774,7 @@
 	<Style id='poly-FF7F50-4-166-highlight'>
 		<LineStyle>
 			<color>ff507FFF</color>
-			<width>3.0</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>A6507FFF</color>
@@ -2827,7 +2827,7 @@
 	<Style id='poly-FFA500-4-166-normal'>
 		<LineStyle>
 			<color>ff00A5FF</color>
-			<width>2</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>A600A5FF</color>
@@ -2838,7 +2838,7 @@
 	<Style id='poly-FFA500-4-166-highlight'>
 		<LineStyle>
 			<color>ff00A5FF</color>
-			<width>3.0</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>A600A5FF</color>
@@ -2859,7 +2859,7 @@
 	<Style id='poly-FFC0CB-4-166-normal'>
 		<LineStyle>
 			<color>ffCBC0FF</color>
-			<width>2</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>A6CBC0FF</color>
@@ -2870,7 +2870,7 @@
 	<Style id='poly-FFC0CB-4-166-highlight'>
 		<LineStyle>
 			<color>ffCBC0FF</color>
-			<width>3.0</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>A6CBC0FF</color>
@@ -2891,7 +2891,7 @@
 	<Style id='poly-FFC730-4-128-normal'>
 		<LineStyle>
 			<color>ff30C7FF</color>
-			<width>2</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>8030C7FF</color>
@@ -2902,7 +2902,7 @@
 	<Style id='poly-FFC730-4-128-highlight'>
 		<LineStyle>
 			<color>ff30C7FF</color>
-			<width>3.0</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>8030C7FF</color>
@@ -2955,7 +2955,7 @@
 	<Style id='poly-FFD700-4-166-normal'>
 		<LineStyle>
 			<color>ff00D7FF</color>
-			<width>2</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>A600D7FF</color>
@@ -2966,7 +2966,7 @@
 	<Style id='poly-FFD700-4-166-highlight'>
 		<LineStyle>
 			<color>ff00D7FF</color>
-			<width>3.0</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>A600D7FF</color>
@@ -2987,7 +2987,7 @@
 	<Style id='poly-FFD700-4-179-normal'>
 		<LineStyle>
 			<color>ff00D7FF</color>
-			<width>2</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>B300D7FF</color>
@@ -2998,7 +2998,7 @@
 	<Style id='poly-FFD700-4-179-highlight'>
 		<LineStyle>
 			<color>ff00D7FF</color>
-			<width>3.0</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>B300D7FF</color>
@@ -3051,7 +3051,7 @@
 	<Style id='poly-FFF799-4-166-normal'>
 		<LineStyle>
 			<color>ff99F7FF</color>
-			<width>2</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>A699F7FF</color>
@@ -3062,7 +3062,7 @@
 	<Style id='poly-FFF799-4-166-highlight'>
 		<LineStyle>
 			<color>ff99F7FF</color>
-			<width>3.0</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>A699F7FF</color>
@@ -3083,7 +3083,7 @@
 	<Style id='poly-FFFB00-4-179-normal'>
 		<LineStyle>
 			<color>ff00FBFF</color>
-			<width>2</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>B300FBFF</color>
@@ -3094,7 +3094,7 @@
 	<Style id='poly-FFFB00-4-179-highlight'>
 		<LineStyle>
 			<color>ff00FBFF</color>
-			<width>3.0</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>B300FBFF</color>
@@ -3115,7 +3115,7 @@
 	<Style id='poly-FFFD99-4-128-normal'>
 		<LineStyle>
 			<color>ff99FDFF</color>
-			<width>2</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>8099FDFF</color>
@@ -3126,7 +3126,7 @@
 	<Style id='poly-FFFD99-4-128-highlight'>
 		<LineStyle>
 			<color>ff99FDFF</color>
-			<width>3.0</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>8099FDFF</color>
@@ -3147,32 +3147,6 @@
 	<description><![CDATA[]]></description>
 	<Folder>
 		<name>Bordeaux</name>
-		<Placemark>
-			<name>Médoc</name>
-			<description></description>
-			<styleUrl>#poly-DC143C-4-166</styleUrl>
-			<Polygon>
-				<outerBoundaryIs>
-					<LinearRing>
-						<tessellate>1</tessellate>
-						<coordinates>-0.8669050000000001,45.263019,0.0 -0.8623890000000001,45.268373,0.0 -0.851931,45.270714,0.0 -0.848603,45.28192,0.0 -0.833867,45.296134,0.0 -0.819369,45.30649900000001,0.0 -0.780627,45.310343,0.0 -0.8046329999999999,45.347272,0.0 -0.816993,45.356458999999994,0.0 -0.8428990000000001,45.377165,0.0 -0.873322,45.393858,0.0 -0.9103999999999999,45.404539,0.0 -0.9358319999999999,45.420055999999995,0.0 -0.976713,45.425728,0.0 -1.052296,45.400868,0.0 -0.9959650000000001,45.352784,0.0 -0.989547,45.32856,0.0 -0.951519,45.293124,0.0 -0.9142029999999999,45.26118,0.0 -0.8669050000000001,45.263019,0.0</coordinates>
-					</LinearRing>
-				</outerBoundaryIs>
-			</Polygon>
-		</Placemark>
-		<Placemark>
-			<name>Haut-Médoc</name>
-			<description></description>
-			<styleUrl>#poly-F08080-4-166</styleUrl>
-			<Polygon>
-				<outerBoundaryIs>
-					<LinearRing>
-						<tessellate>1</tessellate>
-						<coordinates>-0.7190007401273267,44.997744268265095,0.0 -0.7185929999999999,44.997327,0.0 -0.73214,44.985897,0.0 -0.688645,44.955966000000004,0.0 -0.661312,44.92568299999999,0.0 -0.6389699999999998,44.902624,0.0 -0.597851,44.910031000000004,0.0 -0.551979,44.916596,0.0 -0.5572080000000001,44.93477000000001,0.0 -0.552455,44.977996,0.0 -0.5720511502279854,44.998572111427485,0.0 -0.5755090000000002,45.002201,0.0 -0.597614,45.010939,0.0 -0.6102109999999998,45.01514,0.0 -0.6591730000000001,45.044704,0.0 -0.679851,45.065692,0.0 -0.697201,45.081302,0.0 -0.717404,45.124249000000006,0.0 -0.734042,45.165991,0.0 -0.7475300000000001,45.207826,0.0 -0.7557920000000001,45.233435,0.0 -0.750204,45.247543,0.0 -0.763712,45.275434,0.0 -0.7721000000000001,45.292749,0.0 -0.780627,45.310343,0.0 -0.819369,45.30649900000001,0.0 -0.833867,45.296134,0.0 -0.848603,45.28192,0.0 -0.851931,45.270714,0.0 -0.8566849999999999,45.245869,0.0 -0.853594,45.201507,0.0 -0.8474149999999999,45.167499,0.0 -0.821508,45.122572,0.0 -0.805346,45.091203,0.0 -0.8310150000000001,45.071567,0.0 -0.836482,45.02673200000001,0.0 -0.8186560000000002,45.011443,0.0 -0.7409349999999999,45.02018,0.0 -0.7190007401273267,44.997744268265095,0.0</coordinates>
-					</LinearRing>
-				</outerBoundaryIs>
-			</Polygon>
-		</Placemark>
 		<Placemark>
 			<name>Pauillac</name>
 			<description></description>
@@ -3434,45 +3408,6 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Bordeaux</name>
-			<description></description>
-			<styleUrl>#poly-FFC0CB-4-166</styleUrl>
-			<Polygon>
-				<outerBoundaryIs>
-					<LinearRing>
-						<tessellate>1</tessellate>
-						<coordinates>0.022342108462264386,44.999997821960775,0.0 -1.4386244755016648E-18,45.00615024809477,0.0 -0.010621,45.00907300000001,0.0 -0.032011,45.00604899999999,0.0 -0.079786,45.024195,0.0 -0.116864,45.021171,0.0 -0.15204,45.021507,0.0 -0.19173300000000001,45.054258,0.0 -0.245686,45.064667,0.0 -0.29037,45.074067,0.0 -0.338856,45.095715,0.0 -0.38045,45.092527,0.0 -0.3852040000000001,45.130939,0.0 -0.412537,45.14116700000001,0.0 -0.43892000000000003,45.144687,0.0 -0.48550399999999994,45.152063,0.0 -0.5218699999999998,45.171670999999996,0.0 -0.522771,45.172916,0.0 -0.5632729999999999,45.170477,0.0 -0.563987,45.181032,0.0 -0.556636,45.183993,0.0 -0.555524,45.18737899999999,0.0 -0.559052,45.190533,0.0 -0.553364,45.198403,0.0 -0.557788,45.206048,0.0 -0.5670620000000001,45.20723,0.0 -0.5694059999999999,45.198809999999995,0.0 -0.5801010000000001,45.20182400000001,0.0 -0.6017300000000001,45.193617,0.0 -0.60791,45.196632,0.0 -0.613377,45.203331000000006,0.0 -0.620507,45.212876,0.0 -0.6483149999999999,45.223257000000004,0.0 -0.654495,45.215387,0.0 -0.649504,45.204503,0.0 -0.6535440000000001,45.18691700000001,0.0 -0.655446,45.182059,0.0 -0.642849,45.173347,0.0 -0.643799,45.170832999999995,0.0 -0.652832,45.170832999999995,0.0 -0.661388,45.158432,0.0 -0.661388,45.153404,0.0 -0.6566409999999999,45.149739,0.0 -0.655208,45.15156,0.0 -0.6502170000000002,45.149046,0.0 -0.6516429999999999,45.147034,0.0 -0.656159,45.147369,0.0 -0.6585360000000001,45.146029000000006,0.0 -0.6599620000000002,45.140832,0.0 -0.667805,45.143346,0.0 -0.668518,45.134628,0.0 -0.6537820000000001,45.1192,0.0 -0.655947,45.115046,0.0 -0.6502170000000002,45.106117,0.0 -0.63857,45.077928,0.0 -0.6117129999999998,45.052915000000006,0.0 -0.586756,45.040656000000006,0.0 -0.541597,45.03377,0.0 -0.512125,45.013442,0.0 -0.4833650000000001,45.015291,0.0 -0.4720763529225166,44.99902759589647,0.0 -0.470768,44.997142,0.0 -0.46791600000000005,44.983861999999995,0.0 -0.463638,44.972261,0.0 -0.4080210000000001,44.964694,0.0 -0.406119,44.950230000000005,0.0 -0.3833019999999999,44.942155,0.0 -0.35073999999999994,44.937613,0.0 -0.32126800000000005,44.93206,0.0 -0.312474,44.921627,0.0 -0.30938399999999994,44.908162,0.0 -0.29179599999999994,44.912875,0.0 -0.282526,44.921795,0.0 -0.271355,44.919774999999994,0.0 -0.238556,44.92718,0.0 -0.21026099999999998,44.908423,0.0 -0.20238499999999998,44.914846,0.0 -0.21193200000000006,44.91518400000001,0.0 -0.21002300000000002,44.924986000000004,0.0 -0.216944,44.927183,0.0 -0.21360299999999996,44.930224,0.0 -0.22983199999999998,44.933941,0.0 -0.22386599999999995,44.943571,0.0 -0.21813800000000003,44.945936,0.0 -0.23150300000000001,44.949146,0.0 -0.226518,44.96218199999999,0.0 -0.220763,44.967386,0.0 -0.209546,44.969074,0.0 -0.202624,44.966879,0.0 -0.196657,44.96958000000001,0.0 -0.185201,44.966879,0.0 -0.174278,44.96339,0.0 -0.171359,44.965359,0.0 -0.15942499999999998,44.955057999999994,0.0 -0.150117,44.953199,0.0 -0.149219,44.95492999999999,0.0 -0.145822,44.96147500000001,0.0 -0.141748,44.961482,0.0 -0.14415100000000003,44.964515,0.0 -0.128471,44.959741,0.0 -0.128876,44.963333,0.0 -0.125604,44.963352,0.0 -0.115749,44.97143799999999,0.0 -0.119091,44.97616500000001,0.0 -0.11264699999999998,44.97700900000001,0.0 -0.116943,44.980892,0.0 -0.11885199999999997,44.987814,0.0 -0.12188299999999999,44.988287,0.0 -0.121238,44.990683,0.0 -0.130007,44.997268,0.0 -0.13004771263627748,44.99992620563754,0.0 -0.130069,45.001316,0.0 -0.12458000000000002,45.00519800000001,0.0 -0.106679,45.00941600000001,0.0 -0.092359,45.009078,0.0 -0.097372,45.00216,0.0 -0.10517812633320163,44.999951730980165,0.0 -0.10572500000000001,44.999797,0.0 -0.08949599999999999,44.996253,0.0 -0.0852,44.993551999999994,0.0 -0.080665,44.980892,0.0 -0.082574,44.975828,0.0 -0.074699,44.972957,0.0 -0.075414,44.970593,0.0 -0.06634499999999999,44.961813,0.0 -0.06233999999999999,44.965844,0.0 -0.05202500000000001,44.96671,0.0 -0.045342,44.957422,0.0 -0.046297,44.954888999999994,0.0 -0.037705,44.952693,0.0 -0.029352,44.94559799999999,0.0 -0.033409,44.941882,0.0 -0.027681,44.937658,0.0 -0.03126099999999999,44.932252,0.0 -0.029112999999999997,44.923803,0.0 -0.039374,44.926045,0.0 -0.04558100000000001,44.929210000000005,0.0 -0.04772900000000001,44.922789,0.0 -0.053218,44.917213,0.0 -0.06204900000000001,44.91721299999999,0.0 -0.065629,44.913663,0.0 -0.066822,44.909268,0.0 -0.08162,44.902845,0.0 -0.093314,44.90030899999999,0.0 -0.08810000000000001,44.893857999999994,0.0 -0.08352900000000002,44.891856,0.0 -0.080542,44.894341,0.0 -0.067061,44.88898100000001,0.0 -0.084723,44.87409900000001,0.0 -0.08830300000000002,44.874945,0.0 -0.097611,44.867503,0.0 -0.10166800000000001,44.860397999999996,0.0 -0.095462,44.858875000000005,0.0 -0.10047500000000001,44.851939,0.0 -0.10477100000000002,44.849739,0.0 -0.114079,44.85041600000001,0.0 -0.12171600000000002,44.848386,0.0 -0.12744399999999997,44.842800999999994,0.0 -0.132695,44.840939,0.0 -0.13746800000000003,44.843478,0.0 -0.14391200000000004,44.84246300000001,0.0 -0.142719,44.839248,0.0 -0.147123,44.837331,0.0 -0.141809,44.824482999999994,0.0 -0.132313,44.818875,0.0 -0.125658,44.823427,0.0 -0.11115900000000001,44.822921,0.0 -0.09713599999999999,44.827979000000006,0.0 -0.08406299999999998,44.833541,0.0 -0.061009,44.842137,0.0 -0.043658,44.852921,0.0 -0.019890000000000005,44.857134,0.0 -0.009531000000000001,44.855022,0.0 -0.007589000000000001,44.86607500000001,0.0 -0.0,44.87205114429732,0.0 0.0029439999999999996,44.874368999999994,0.0 6.03E-4,44.877410000000005,0.0 0.012696,44.885979,0.0 0.017377000000000004,44.895652,0.0 0.033372000000000006,44.91526900000001,0.0 0.019718,44.926869,0.0 0.013477,44.94095299999999,0.0 0.0037240000000000007,44.94758000000001,0.0 0.008795000000000002,44.962762999999995,0.0 0.013477,44.97904700000001,0.0 0.018548000000000002,44.980978,0.0 0.025960000000000004,44.975183,0.0 0.030251,44.976287,0.0 0.036492000000000004,44.99228999999999,0.0 0.039432999999999996,44.994474000000004,0.0 0.034538,44.99663700000001,0.0 0.022342108462264386,44.999997821960775,0.0</coordinates>
-					</LinearRing>
-				</outerBoundaryIs>
-			</Polygon>
-		</Placemark>
-		<Placemark>
-			<name>Bordeaux</name>
-			<description></description>
-			<styleUrl>#poly-FFC0CB-4-166</styleUrl>
-			<Polygon>
-				<outerBoundaryIs>
-					<LinearRing>
-						<tessellate>1</tessellate>
-						<coordinates>-0.20942300000000003,44.487618,0.0 -0.22247309999999998,44.4671112,0.0 -0.16891479999999998,44.455349299999995,0.0 -0.1496887,44.4386827,0.0 -0.10848999999999999,44.4259344,0.0 -0.0672913,44.42789590000001,0.0 -0.03433230000000001,44.4190688,0.0 -0.024719199999999997,44.410240400000006,0.0 -0.020599399999999997,44.42004969999999,0.0 -0.013046300000000002,44.4205401,0.0 -0.010986300000000001,44.413673800000005,0.0 0.0030899,44.411957199999996,0.0 -0.0013732999999999998,44.439663200000005,0.0 0.015106199999999998,44.4592702,0.0 0.0181961,44.510952,0.0 0.0350189,44.5312693,0.0 0.0013733,44.544973299999995,0.0 -0.027465800000000002,44.54203700000001,0.0 -0.06179810000000001,44.5464414,0.0 -0.0995636,44.55965270000001,0.0 -0.11123659999999999,44.5855771,0.0 -0.13225400000000004,44.584412,0.0 -0.178127,44.56799000000001,0.0 -0.187795,44.560484,0.0 -0.18708100000000003,44.552016,0.0 -0.19848999999999997,44.55066,0.0 -0.19981379999999999,44.5410582,0.0 -0.21322599999999997,44.511521,0.0 -0.20728400000000002,44.495926,0.0 -0.20942300000000003,44.487618,0.0</coordinates>
-					</LinearRing>
-				</outerBoundaryIs>
-			</Polygon>
-		</Placemark>
-		<Placemark>
-			<name>Entre-Deux-Mers</name>
-			<description><![CDATA[<a href="#">ici un lien</a>]]></description>
-			<styleUrl>#poly-DDA0DD-4-166</styleUrl>
-			<Polygon>
-				<outerBoundaryIs>
-					<LinearRing>
-						<tessellate>1</tessellate>
-						<coordinates>-2.443844325349148E-18,44.577280746995065,0.0 0.027465999999999997,44.5729,0.0 0.080231,44.583566,0.0 0.109703,44.590168,0.0 0.126816,44.601338000000005,0.0 0.131332,44.625702,0.0 0.158665,44.631115,0.0 0.164844,44.637711,0.0 0.15581300000000003,44.643292,0.0 0.078805,44.668483,0.0 0.090451,44.691299,0.0 0.09346120133122092,44.7005756658672,0.0 0.09390399999999999,44.70194,0.0 0.10607000000000001,44.70302099999999,0.0 0.10632500000000002,44.707525000000004,0.0 0.118491,44.71365,0.0 0.135221,44.708426,0.0 0.13877000000000003,44.71401,0.0 0.134714,44.721575,0.0 0.13953,44.72175500000001,0.0 0.140797,44.738143,0.0 0.151698,44.7304,0.0 0.163864,44.736342,0.0 0.170201,44.736522,0.0 0.17501799999999998,44.734541,0.0 0.18464999999999998,44.748765,0.0 0.19200100000000003,44.749305,0.0 0.201633,44.722656,0.0 0.21988400000000002,44.724997,0.0 0.21025200000000002,44.740303,0.0 0.215321,44.746964000000006,0.0 0.21810900000000003,44.756325,0.0 0.22774200000000003,44.764605,0.0 0.239909,44.762805,0.0 0.24472499999999997,44.753085,0.0 0.249541,44.750925,0.0 0.262976,44.75164500000001,0.0 0.281227,44.754165,0.0 0.29389999999999994,44.757945,0.0 0.297956,44.761545,0.0 0.27767699999999995,44.774502,0.0 0.271594,44.786377,0.0 0.276156,44.79807,0.0 0.27032600000000007,44.807962,0.0 0.27058,44.811019,0.0 0.266271,44.812278,0.0 0.26475,44.826482,0.0 0.286549,44.823066,0.0 0.292126,44.831516,0.0 0.29897,44.833673,0.0 0.29957847386916836,44.83544709196375,0.0 0.30125099999999994,44.84032299999999,0.0 0.30809499999999995,44.839425,0.0 0.313925,44.845176,0.0 0.2995784738691684,44.853687019579745,0.0 0.28463599999999994,44.86254699999999,0.0 0.26681000000000005,44.865748,0.0 0.24256599999999998,44.855808,0.0 0.24019,44.838451000000006,0.0 0.228372,44.833042,0.0 0.163979,44.823908,0.0 0.137036,44.824124,0.0 0.110387,44.816305,0.0 0.10399900000000001,44.824629,0.0 0.086886,44.826652,0.0 0.07238699999999999,44.817211,0.0 0.04053799999999999,44.825809,0.0 0.013443000000000002,44.843676,0.0 0.0,44.845382247625885,0.0 -0.009137,44.846541,0.0 -0.028626999999999996,44.85041600000001,0.0 -0.039083999999999994,44.850585,0.0 -0.04098600000000001,44.81856,0.0 -0.077588,44.82968699999999,0.0 -0.09190699999999999,44.830204,0.0 -0.101356,44.822269,0.0 -0.129165,44.812997,0.0 -0.13938500000000004,44.811141000000006,0.0 -0.153884,44.82092,0.0 -0.159112,44.822944,0.0 -0.16030099999999997,44.829012,0.0 -0.157659,44.833541,0.0 -0.15055600000000002,44.836598,0.0 -0.14773099999999997,44.84060099999999,0.0 -0.15156599999999998,44.843061999999996,0.0 -0.175894,44.838401,0.0 -0.181382,44.83433900000001,0.0 -0.184782,44.831541,0.0 -0.190724,44.831878,0.0 -0.201657,44.839124999999996,0.0 -0.217582,44.850753000000005,0.0 -0.222048,44.854804,0.0 -0.220196,44.856314,0.0 -0.213303,44.869791000000006,0.0 -0.204985,44.882255,0.0 -0.212116,44.891853,0.0 -0.220909,44.893705,0.0 -0.233744,44.8932,0.0 -0.24158800000000002,44.887980000000006,0.0 -0.23540799999999998,44.88276,0.0 -0.234695,44.88006500000001,0.0 -0.24348899999999998,44.872655,0.0 -0.259176,44.872991000000006,0.0 -0.262978,44.886464,0.0 -0.249194,44.89842000000001,0.0 -0.25157,44.906164,0.0 -0.253709,44.9166,0.0 -0.2866159999999999,44.917859,0.0 -0.288648,44.90919399999999,0.0 -0.278665,44.895725,0.0 -0.28270600000000007,44.88899000000001,0.0 -0.29791700000000004,44.886970000000005,0.0 -0.3102770000000001,44.895725,0.0 -0.326439,44.913906999999995,0.0 -0.33665900000000004,44.918451,0.0 -0.38371999999999995,44.913402,0.0 -0.43601000000000006,44.917778,0.0 -0.46833399999999986,44.922322,0.0 -0.514919,44.920807,0.0 -0.519435,44.916936,0.0 -0.4894880000000001,44.881413,0.0 -0.478079,44.871812000000006,0.0 -0.4816439999999999,44.856987000000004,0.0 -0.46928400000000003,44.811141,0.0 -0.463818,44.800349,0.0 -0.469998,44.78753,0.0 -0.49638,44.78263799999999,0.0 -0.4940030000000001,44.775215,0.0 -0.508739,44.766778,0.0 -0.510878,44.757158999999994,0.0 -0.49923199999999995,44.74433,0.0 -0.492815,44.740109999999994,0.0 -0.4828330000000001,44.73994100000001,0.0 -0.464293,44.731668000000006,0.0 -0.448292,44.733808,0.0 -0.44044800000000006,44.738029,0.0 -0.42476099999999994,44.740054,0.0 -0.41287699999999994,44.74360000000001,0.0 -0.404321,44.744444,0.0 -0.3826919999999999,44.740224,0.0 -0.37318399999999996,44.74765099999999,0.0 -0.358211,44.756259,0.0 -0.34919700000000004,44.751058,0.0 -0.346802,44.749677000000005,0.0 -0.345851,44.74765099999999,0.0 -0.348942,44.745963,0.0 -0.34680200000000005,44.74376899999999,0.0 -0.339672,44.745288,0.0 -0.32493599999999995,44.74022399999999,0.0 -0.31637899999999997,44.734483000000004,0.0 -0.310912,44.73667799999999,0.0 -0.303069,44.730093,0.0 -0.298553,44.719792,0.0 -0.298553,44.71084,0.0 -0.308773,44.705773,0.0 -0.316617,44.693778,0.0 -0.3042579999999999,44.684315,0.0 -0.304258,44.68009,0.0 -0.294751,44.67248500000001,0.0 -0.286431,44.665555,0.0 -0.275736,44.660652,0.0 -0.26123699999999994,44.657101,0.0 -0.251255,44.65744,0.0 -0.23984700000000003,44.65203,0.0 -0.236519,44.642222000000004,0.0 -0.23247900000000002,44.64442,0.0 -0.22629799999999994,44.64171399999999,0.0 -0.219882,44.63325799999999,0.0 -0.212751,44.62666099999999,0.0 -0.20657100000000003,44.624970000000005,0.0 -0.20633300000000002,44.623109,0.0 -0.202769,44.622433,0.0 -0.200017,44.618305,0.0 -0.19421200000000002,44.621417,0.0 -0.188508,44.618034,0.0 -0.198015,44.613804,0.0 -0.212514,44.609913,0.0 -0.22415900000000002,44.602806,0.0 -0.22107,44.60009800000001,0.0 -0.22606100000000007,44.588758000000006,0.0 -0.232954,44.574707,0.0 -0.23081500000000002,44.567935,0.0 -0.210689,44.569345,0.0 -0.178127,44.56799000000001,0.0 -0.13225400000000004,44.584412,0.0 -0.07497400000000001,44.58424300000001,0.0 -0.024586,44.581196,0.0 -2.443844325349148E-18,44.577280746995065,0.0</coordinates>
-					</LinearRing>
-				</outerBoundaryIs>
-			</Polygon>
-		</Placemark>
-		<Placemark>
 			<name>Côtes de Bordeaux-St.-Macaire</name>
 			<description></description>
 			<styleUrl>#poly-8FBC8F-4-166</styleUrl>
@@ -3598,6 +3533,71 @@
 					<LinearRing>
 						<tessellate>1</tessellate>
 						<coordinates>-0.326439,44.913906999999995,0.0 -0.33129100000000006,44.910363,0.0 -0.33556400000000003,44.910225,0.0 -0.33925400000000006,44.912426,0.0 -0.342944,44.911188,0.0 -0.35187900000000005,44.89990800000001,0.0 -0.349743,44.894129,0.0 -0.35013099999999997,44.888901,0.0 -0.34644100000000005,44.882295,0.0 -0.34255599999999997,44.88202,0.0 -0.340419,44.875689,0.0 -0.33148600000000006,44.86990800000001,0.0 -0.32818299999999995,44.87279899999999,0.0 -0.31555800000000006,44.866465999999996,0.0 -0.312257,44.86880699999999,0.0 -0.310703,44.864539,0.0 -0.30371100000000006,44.860684,0.0 -0.3007969999999999,44.865227,0.0 -0.295165,44.861785999999995,0.0 -0.29186400000000007,44.864264,0.0 -0.287007,44.87334899999999,0.0 -0.275742,44.867568,0.0 -0.27011,44.874587999999996,0.0 -0.28270600000000007,44.88899000000001,0.0 -0.29791700000000004,44.886970000000005,0.0 -0.3102770000000001,44.895725,0.0 -0.326439,44.913906999999995,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Médoc</name>
+			<description></description>
+			<styleUrl>#poly-DC143C-4-166</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-0.8669050000000001,45.263019,0.0 -0.8623890000000001,45.268373,0.0 -0.851931,45.270714,0.0 -0.848603,45.28192,0.0 -0.833867,45.296134,0.0 -0.819369,45.30649900000001,0.0 -0.780627,45.310343,0.0 -0.8046329999999999,45.347272,0.0 -0.816993,45.356458999999994,0.0 -0.8428990000000001,45.377165,0.0 -0.873322,45.393858,0.0 -0.9103999999999999,45.404539,0.0 -0.9358319999999999,45.420055999999995,0.0 -0.976713,45.425728,0.0 -1.052296,45.400868,0.0 -0.9959650000000001,45.352784,0.0 -0.989547,45.32856,0.0 -0.951519,45.293124,0.0 -0.9142029999999999,45.26118,0.0 -0.8669050000000001,45.263019,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Haut-Médoc</name>
+			<description></description>
+			<styleUrl>#poly-F08080-4-166</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-0.7190007401273267,44.997744268265095,0.0 -0.7185929999999999,44.997327,0.0 -0.73214,44.985897,0.0 -0.688645,44.955966000000004,0.0 -0.661312,44.92568299999999,0.0 -0.6389699999999998,44.902624,0.0 -0.597851,44.910031000000004,0.0 -0.551979,44.916596,0.0 -0.5572080000000001,44.93477000000001,0.0 -0.552455,44.977996,0.0 -0.5720511502279854,44.998572111427485,0.0 -0.5755090000000002,45.002201,0.0 -0.597614,45.010939,0.0 -0.6102109999999998,45.01514,0.0 -0.6591730000000001,45.044704,0.0 -0.679851,45.065692,0.0 -0.697201,45.081302,0.0 -0.717404,45.124249000000006,0.0 -0.734042,45.165991,0.0 -0.7475300000000001,45.207826,0.0 -0.7557920000000001,45.233435,0.0 -0.750204,45.247543,0.0 -0.763712,45.275434,0.0 -0.7721000000000001,45.292749,0.0 -0.780627,45.310343,0.0 -0.819369,45.30649900000001,0.0 -0.833867,45.296134,0.0 -0.848603,45.28192,0.0 -0.851931,45.270714,0.0 -0.8566849999999999,45.245869,0.0 -0.853594,45.201507,0.0 -0.8474149999999999,45.167499,0.0 -0.821508,45.122572,0.0 -0.805346,45.091203,0.0 -0.8310150000000001,45.071567,0.0 -0.836482,45.02673200000001,0.0 -0.8186560000000002,45.011443,0.0 -0.7409349999999999,45.02018,0.0 -0.7190007401273267,44.997744268265095,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Bordeaux</name>
+			<description></description>
+			<styleUrl>#poly-FFC0CB-4-166</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>0.022342108462264386,44.999997821960775,0.0 -1.4386244755016648E-18,45.00615024809477,0.0 -0.010621,45.00907300000001,0.0 -0.032011,45.00604899999999,0.0 -0.079786,45.024195,0.0 -0.116864,45.021171,0.0 -0.15204,45.021507,0.0 -0.19173300000000001,45.054258,0.0 -0.245686,45.064667,0.0 -0.29037,45.074067,0.0 -0.338856,45.095715,0.0 -0.38045,45.092527,0.0 -0.3852040000000001,45.130939,0.0 -0.412537,45.14116700000001,0.0 -0.43892000000000003,45.144687,0.0 -0.48550399999999994,45.152063,0.0 -0.5218699999999998,45.171670999999996,0.0 -0.522771,45.172916,0.0 -0.5632729999999999,45.170477,0.0 -0.563987,45.181032,0.0 -0.556636,45.183993,0.0 -0.555524,45.18737899999999,0.0 -0.559052,45.190533,0.0 -0.553364,45.198403,0.0 -0.557788,45.206048,0.0 -0.5670620000000001,45.20723,0.0 -0.5694059999999999,45.198809999999995,0.0 -0.5801010000000001,45.20182400000001,0.0 -0.6017300000000001,45.193617,0.0 -0.60791,45.196632,0.0 -0.613377,45.203331000000006,0.0 -0.620507,45.212876,0.0 -0.6483149999999999,45.223257000000004,0.0 -0.654495,45.215387,0.0 -0.649504,45.204503,0.0 -0.6535440000000001,45.18691700000001,0.0 -0.655446,45.182059,0.0 -0.642849,45.173347,0.0 -0.643799,45.170832999999995,0.0 -0.652832,45.170832999999995,0.0 -0.661388,45.158432,0.0 -0.661388,45.153404,0.0 -0.6566409999999999,45.149739,0.0 -0.655208,45.15156,0.0 -0.6502170000000002,45.149046,0.0 -0.6516429999999999,45.147034,0.0 -0.656159,45.147369,0.0 -0.6585360000000001,45.146029000000006,0.0 -0.6599620000000002,45.140832,0.0 -0.667805,45.143346,0.0 -0.668518,45.134628,0.0 -0.6537820000000001,45.1192,0.0 -0.655947,45.115046,0.0 -0.6502170000000002,45.106117,0.0 -0.63857,45.077928,0.0 -0.6117129999999998,45.052915000000006,0.0 -0.586756,45.040656000000006,0.0 -0.541597,45.03377,0.0 -0.512125,45.013442,0.0 -0.4833650000000001,45.015291,0.0 -0.4720763529225166,44.99902759589647,0.0 -0.470768,44.997142,0.0 -0.46791600000000005,44.983861999999995,0.0 -0.463638,44.972261,0.0 -0.4080210000000001,44.964694,0.0 -0.406119,44.950230000000005,0.0 -0.3833019999999999,44.942155,0.0 -0.35073999999999994,44.937613,0.0 -0.32126800000000005,44.93206,0.0 -0.312474,44.921627,0.0 -0.30938399999999994,44.908162,0.0 -0.29179599999999994,44.912875,0.0 -0.282526,44.921795,0.0 -0.271355,44.919774999999994,0.0 -0.238556,44.92718,0.0 -0.21026099999999998,44.908423,0.0 -0.20238499999999998,44.914846,0.0 -0.21193200000000006,44.91518400000001,0.0 -0.21002300000000002,44.924986000000004,0.0 -0.216944,44.927183,0.0 -0.21360299999999996,44.930224,0.0 -0.22983199999999998,44.933941,0.0 -0.22386599999999995,44.943571,0.0 -0.21813800000000003,44.945936,0.0 -0.23150300000000001,44.949146,0.0 -0.226518,44.96218199999999,0.0 -0.220763,44.967386,0.0 -0.209546,44.969074,0.0 -0.202624,44.966879,0.0 -0.196657,44.96958000000001,0.0 -0.185201,44.966879,0.0 -0.174278,44.96339,0.0 -0.171359,44.965359,0.0 -0.15942499999999998,44.955057999999994,0.0 -0.150117,44.953199,0.0 -0.149219,44.95492999999999,0.0 -0.145822,44.96147500000001,0.0 -0.141748,44.961482,0.0 -0.14415100000000003,44.964515,0.0 -0.128471,44.959741,0.0 -0.128876,44.963333,0.0 -0.125604,44.963352,0.0 -0.115749,44.97143799999999,0.0 -0.119091,44.97616500000001,0.0 -0.11264699999999998,44.97700900000001,0.0 -0.116943,44.980892,0.0 -0.11885199999999997,44.987814,0.0 -0.12188299999999999,44.988287,0.0 -0.121238,44.990683,0.0 -0.130007,44.997268,0.0 -0.13004771263627748,44.99992620563754,0.0 -0.130069,45.001316,0.0 -0.12458000000000002,45.00519800000001,0.0 -0.106679,45.00941600000001,0.0 -0.092359,45.009078,0.0 -0.097372,45.00216,0.0 -0.10517812633320163,44.999951730980165,0.0 -0.10572500000000001,44.999797,0.0 -0.08949599999999999,44.996253,0.0 -0.0852,44.993551999999994,0.0 -0.080665,44.980892,0.0 -0.082574,44.975828,0.0 -0.074699,44.972957,0.0 -0.075414,44.970593,0.0 -0.06634499999999999,44.961813,0.0 -0.06233999999999999,44.965844,0.0 -0.05202500000000001,44.96671,0.0 -0.045342,44.957422,0.0 -0.046297,44.954888999999994,0.0 -0.037705,44.952693,0.0 -0.029352,44.94559799999999,0.0 -0.033409,44.941882,0.0 -0.027681,44.937658,0.0 -0.03126099999999999,44.932252,0.0 -0.029112999999999997,44.923803,0.0 -0.039374,44.926045,0.0 -0.04558100000000001,44.929210000000005,0.0 -0.04772900000000001,44.922789,0.0 -0.053218,44.917213,0.0 -0.06204900000000001,44.91721299999999,0.0 -0.065629,44.913663,0.0 -0.066822,44.909268,0.0 -0.08162,44.902845,0.0 -0.093314,44.90030899999999,0.0 -0.08810000000000001,44.893857999999994,0.0 -0.08352900000000002,44.891856,0.0 -0.080542,44.894341,0.0 -0.067061,44.88898100000001,0.0 -0.084723,44.87409900000001,0.0 -0.08830300000000002,44.874945,0.0 -0.097611,44.867503,0.0 -0.10166800000000001,44.860397999999996,0.0 -0.095462,44.858875000000005,0.0 -0.10047500000000001,44.851939,0.0 -0.10477100000000002,44.849739,0.0 -0.114079,44.85041600000001,0.0 -0.12171600000000002,44.848386,0.0 -0.12744399999999997,44.842800999999994,0.0 -0.132695,44.840939,0.0 -0.13746800000000003,44.843478,0.0 -0.14391200000000004,44.84246300000001,0.0 -0.142719,44.839248,0.0 -0.147123,44.837331,0.0 -0.141809,44.824482999999994,0.0 -0.132313,44.818875,0.0 -0.125658,44.823427,0.0 -0.11115900000000001,44.822921,0.0 -0.09713599999999999,44.827979000000006,0.0 -0.08406299999999998,44.833541,0.0 -0.061009,44.842137,0.0 -0.043658,44.852921,0.0 -0.019890000000000005,44.857134,0.0 -0.009531000000000001,44.855022,0.0 -0.007589000000000001,44.86607500000001,0.0 -0.0,44.87205114429732,0.0 0.0029439999999999996,44.874368999999994,0.0 6.03E-4,44.877410000000005,0.0 0.012696,44.885979,0.0 0.017377000000000004,44.895652,0.0 0.033372000000000006,44.91526900000001,0.0 0.019718,44.926869,0.0 0.013477,44.94095299999999,0.0 0.0037240000000000007,44.94758000000001,0.0 0.008795000000000002,44.962762999999995,0.0 0.013477,44.97904700000001,0.0 0.018548000000000002,44.980978,0.0 0.025960000000000004,44.975183,0.0 0.030251,44.976287,0.0 0.036492000000000004,44.99228999999999,0.0 0.039432999999999996,44.994474000000004,0.0 0.034538,44.99663700000001,0.0 0.022342108462264386,44.999997821960775,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Bordeaux</name>
+			<description></description>
+			<styleUrl>#poly-FFC0CB-4-166</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-0.20942300000000003,44.487618,0.0 -0.22247309999999998,44.4671112,0.0 -0.16891479999999998,44.455349299999995,0.0 -0.1496887,44.4386827,0.0 -0.10848999999999999,44.4259344,0.0 -0.0672913,44.42789590000001,0.0 -0.03433230000000001,44.4190688,0.0 -0.024719199999999997,44.410240400000006,0.0 -0.020599399999999997,44.42004969999999,0.0 -0.013046300000000002,44.4205401,0.0 -0.010986300000000001,44.413673800000005,0.0 0.0030899,44.411957199999996,0.0 -0.0013732999999999998,44.439663200000005,0.0 0.015106199999999998,44.4592702,0.0 0.0181961,44.510952,0.0 0.0350189,44.5312693,0.0 0.0013733,44.544973299999995,0.0 -0.027465800000000002,44.54203700000001,0.0 -0.06179810000000001,44.5464414,0.0 -0.0995636,44.55965270000001,0.0 -0.11123659999999999,44.5855771,0.0 -0.13225400000000004,44.584412,0.0 -0.178127,44.56799000000001,0.0 -0.187795,44.560484,0.0 -0.18708100000000003,44.552016,0.0 -0.19848999999999997,44.55066,0.0 -0.19981379999999999,44.5410582,0.0 -0.21322599999999997,44.511521,0.0 -0.20728400000000002,44.495926,0.0 -0.20942300000000003,44.487618,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Entre-Deux-Mers</name>
+			<description><![CDATA[<a href="#">ici un lien</a>]]></description>
+			<styleUrl>#poly-DDA0DD-4-166</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-2.443844325349148E-18,44.577280746995065,0.0 0.027465999999999997,44.5729,0.0 0.080231,44.583566,0.0 0.109703,44.590168,0.0 0.126816,44.601338000000005,0.0 0.131332,44.625702,0.0 0.158665,44.631115,0.0 0.164844,44.637711,0.0 0.15581300000000003,44.643292,0.0 0.078805,44.668483,0.0 0.090451,44.691299,0.0 0.09346120133122092,44.7005756658672,0.0 0.09390399999999999,44.70194,0.0 0.10607000000000001,44.70302099999999,0.0 0.10632500000000002,44.707525000000004,0.0 0.118491,44.71365,0.0 0.135221,44.708426,0.0 0.13877000000000003,44.71401,0.0 0.134714,44.721575,0.0 0.13953,44.72175500000001,0.0 0.140797,44.738143,0.0 0.151698,44.7304,0.0 0.163864,44.736342,0.0 0.170201,44.736522,0.0 0.17501799999999998,44.734541,0.0 0.18464999999999998,44.748765,0.0 0.19200100000000003,44.749305,0.0 0.201633,44.722656,0.0 0.21988400000000002,44.724997,0.0 0.21025200000000002,44.740303,0.0 0.215321,44.746964000000006,0.0 0.21810900000000003,44.756325,0.0 0.22774200000000003,44.764605,0.0 0.239909,44.762805,0.0 0.24472499999999997,44.753085,0.0 0.249541,44.750925,0.0 0.262976,44.75164500000001,0.0 0.281227,44.754165,0.0 0.29389999999999994,44.757945,0.0 0.297956,44.761545,0.0 0.27767699999999995,44.774502,0.0 0.271594,44.786377,0.0 0.276156,44.79807,0.0 0.27032600000000007,44.807962,0.0 0.27058,44.811019,0.0 0.266271,44.812278,0.0 0.26475,44.826482,0.0 0.286549,44.823066,0.0 0.292126,44.831516,0.0 0.29897,44.833673,0.0 0.29957847386916836,44.83544709196375,0.0 0.30125099999999994,44.84032299999999,0.0 0.30809499999999995,44.839425,0.0 0.313925,44.845176,0.0 0.2995784738691684,44.853687019579745,0.0 0.28463599999999994,44.86254699999999,0.0 0.26681000000000005,44.865748,0.0 0.24256599999999998,44.855808,0.0 0.24019,44.838451000000006,0.0 0.228372,44.833042,0.0 0.163979,44.823908,0.0 0.137036,44.824124,0.0 0.110387,44.816305,0.0 0.10399900000000001,44.824629,0.0 0.086886,44.826652,0.0 0.07238699999999999,44.817211,0.0 0.04053799999999999,44.825809,0.0 0.013443000000000002,44.843676,0.0 0.0,44.845382247625885,0.0 -0.009137,44.846541,0.0 -0.028626999999999996,44.85041600000001,0.0 -0.039083999999999994,44.850585,0.0 -0.04098600000000001,44.81856,0.0 -0.077588,44.82968699999999,0.0 -0.09190699999999999,44.830204,0.0 -0.101356,44.822269,0.0 -0.129165,44.812997,0.0 -0.13938500000000004,44.811141000000006,0.0 -0.153884,44.82092,0.0 -0.159112,44.822944,0.0 -0.16030099999999997,44.829012,0.0 -0.157659,44.833541,0.0 -0.15055600000000002,44.836598,0.0 -0.14773099999999997,44.84060099999999,0.0 -0.15156599999999998,44.843061999999996,0.0 -0.175894,44.838401,0.0 -0.181382,44.83433900000001,0.0 -0.184782,44.831541,0.0 -0.190724,44.831878,0.0 -0.201657,44.839124999999996,0.0 -0.217582,44.850753000000005,0.0 -0.222048,44.854804,0.0 -0.220196,44.856314,0.0 -0.213303,44.869791000000006,0.0 -0.204985,44.882255,0.0 -0.212116,44.891853,0.0 -0.220909,44.893705,0.0 -0.233744,44.8932,0.0 -0.24158800000000002,44.887980000000006,0.0 -0.23540799999999998,44.88276,0.0 -0.234695,44.88006500000001,0.0 -0.24348899999999998,44.872655,0.0 -0.259176,44.872991000000006,0.0 -0.262978,44.886464,0.0 -0.249194,44.89842000000001,0.0 -0.25157,44.906164,0.0 -0.253709,44.9166,0.0 -0.2866159999999999,44.917859,0.0 -0.288648,44.90919399999999,0.0 -0.278665,44.895725,0.0 -0.28270600000000007,44.88899000000001,0.0 -0.29791700000000004,44.886970000000005,0.0 -0.3102770000000001,44.895725,0.0 -0.326439,44.913906999999995,0.0 -0.33665900000000004,44.918451,0.0 -0.38371999999999995,44.913402,0.0 -0.43601000000000006,44.917778,0.0 -0.46833399999999986,44.922322,0.0 -0.514919,44.920807,0.0 -0.519435,44.916936,0.0 -0.4894880000000001,44.881413,0.0 -0.478079,44.871812000000006,0.0 -0.4816439999999999,44.856987000000004,0.0 -0.46928400000000003,44.811141,0.0 -0.463818,44.800349,0.0 -0.469998,44.78753,0.0 -0.49638,44.78263799999999,0.0 -0.4940030000000001,44.775215,0.0 -0.508739,44.766778,0.0 -0.510878,44.757158999999994,0.0 -0.49923199999999995,44.74433,0.0 -0.492815,44.740109999999994,0.0 -0.4828330000000001,44.73994100000001,0.0 -0.464293,44.731668000000006,0.0 -0.448292,44.733808,0.0 -0.44044800000000006,44.738029,0.0 -0.42476099999999994,44.740054,0.0 -0.41287699999999994,44.74360000000001,0.0 -0.404321,44.744444,0.0 -0.3826919999999999,44.740224,0.0 -0.37318399999999996,44.74765099999999,0.0 -0.358211,44.756259,0.0 -0.34919700000000004,44.751058,0.0 -0.346802,44.749677000000005,0.0 -0.345851,44.74765099999999,0.0 -0.348942,44.745963,0.0 -0.34680200000000005,44.74376899999999,0.0 -0.339672,44.745288,0.0 -0.32493599999999995,44.74022399999999,0.0 -0.31637899999999997,44.734483000000004,0.0 -0.310912,44.73667799999999,0.0 -0.303069,44.730093,0.0 -0.298553,44.719792,0.0 -0.298553,44.71084,0.0 -0.308773,44.705773,0.0 -0.316617,44.693778,0.0 -0.3042579999999999,44.684315,0.0 -0.304258,44.68009,0.0 -0.294751,44.67248500000001,0.0 -0.286431,44.665555,0.0 -0.275736,44.660652,0.0 -0.26123699999999994,44.657101,0.0 -0.251255,44.65744,0.0 -0.23984700000000003,44.65203,0.0 -0.236519,44.642222000000004,0.0 -0.23247900000000002,44.64442,0.0 -0.22629799999999994,44.64171399999999,0.0 -0.219882,44.63325799999999,0.0 -0.212751,44.62666099999999,0.0 -0.20657100000000003,44.624970000000005,0.0 -0.20633300000000002,44.623109,0.0 -0.202769,44.622433,0.0 -0.200017,44.618305,0.0 -0.19421200000000002,44.621417,0.0 -0.188508,44.618034,0.0 -0.198015,44.613804,0.0 -0.212514,44.609913,0.0 -0.22415900000000002,44.602806,0.0 -0.22107,44.60009800000001,0.0 -0.22606100000000007,44.588758000000006,0.0 -0.232954,44.574707,0.0 -0.23081500000000002,44.567935,0.0 -0.210689,44.569345,0.0 -0.178127,44.56799000000001,0.0 -0.13225400000000004,44.584412,0.0 -0.07497400000000001,44.58424300000001,0.0 -0.024586,44.581196,0.0 -2.443844325349148E-18,44.577280746995065,0.0</coordinates>
 					</LinearRing>
 				</outerBoundaryIs>
 			</Polygon>
